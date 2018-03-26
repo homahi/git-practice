@@ -1,5 +1,5 @@
 test kutsukake
 
-test ohbayashi
+test ohbayashi -test kutsukake
 
 test kanda
